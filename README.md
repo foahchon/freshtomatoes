@@ -6,7 +6,7 @@ A script that generates a webpage displaying information about movies based on d
 
 ## How to use
 
-Run the `entertainment_center.py` script. A file called `fresh_tomatoes.html` will be created in the same directory. By default, `entertainment_center.py` will be populated with information about my favorite movies. You can add or modify movie information by editing `entertainment_center.py`. Re-running `entertainment_center.py` will overwrite `fresh_tomatoes.html`.
+Run the `entertainment_center.py` script. A file called `fresh_tomatoes.html` will be created in the same directory. That HTML file will display movie information specified in `entertainmenter.py`. By default, `entertainment_center.py` will be populated with information about my favorite movies. You can add or modify movie information by editing `entertainment_center.py`. Re-running `entertainment_center.py` will overwrite `fresh_tomatoes.html`.
 
 ### Tip: Running a Python script
 
