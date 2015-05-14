@@ -6,7 +6,21 @@ A script that generates a webpage displaying information about movies based on d
 
 ## How to use
 
-Run the `fresh_tomatoes.py` script. A file called `fresh_tomatoes.html` will be created in the same directory. By default, `fresh_tomatoes.html` will be populated with information about my favorite movies. You can add or modify movie information by editing `entertainment_center.py`. Re-rynnung `fresh_tomatoes.py` will overwrite `fresh_tomatoes.html`.
+Run the `entertainment_center.py` script. A file called `fresh_tomatoes.html` will be created in the same directory. By default, `entertainment_center.py` will be populated with information about my favorite movies. You can add or modify movie information by editing `entertainment_center.py`. Re-running `entertainment_center.py` will overwrite `fresh_tomatoes.html`.
+
+### Tip: Running a Python script
+
+The easiest way to run a Python script is to open the file in the IDLE Python IDE and press F5 (or, click on "Run" in the menu bar, then select "Run Module").
+
+Alternatively, you can open a terminal window (or a command line window if you're running Windows) and enter the following command:
+
+`python entertainment_center.py`
+
+Ensure your working directory is set to the directory containing the files `entertainment_center.py`, `fresh_tomatoes.py`, and `media.py`.
+
+## Running a Python script
+
+To run a Python script, open a command line prompt in Windows (or a terminal window in a Unix-based operating system) and type the following command:
 
 ## Differences from original project
 
