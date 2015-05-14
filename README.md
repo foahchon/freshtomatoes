@@ -20,7 +20,7 @@ Alternatively, you can open a terminal window (or a command line window if you'r
 
 Ensure your working directory is set to the directory containing the files `entertainment_center.py`, `fresh_tomatoes.py`, and `media.py`.
 
-## Differences from original project
+# Differences from original project
 
 - Upon first viewing the page, only the movies' posters are presented. Hovering over a movie poster will reveal more information about that movie (title, year of release, and synopsis).
 - Modifications made to the HTML generated for each movie tile, mostly to accomodate flipping effect when a user hovers their mouse over a poster.
